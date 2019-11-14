@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #fff;
+}
+body {
+  background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
+}
+
+.header-description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 33.33vh;
+}
+.show-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 33.33vh;
+}
+.temperature-degree {
+  cursor: pointer;
+}
+.footer-description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 33.33vh;
+}
